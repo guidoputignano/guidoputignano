@@ -46,7 +46,10 @@ Feel free to contact me if you think I can be helpful for anything in your mind
 <img src="https://img.shields.io/twitter/follow/guidoputignano?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 
+[![Hits](https://hits.sh/www.linkedin.com/in/guido-putignano.svg?label=Linkedin&color=007ec6&logo=Linkedin)](https://hits.sh/www.linkedin.com/in/guido-putignano/)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=guidoputignano&theme=dark&hide_border=true&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+
 
 <!--
 **guidoputignano/guidoputignano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

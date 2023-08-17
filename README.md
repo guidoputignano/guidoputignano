@@ -1,10 +1,11 @@
 <p align="center">
   <a href="https://github.com/guidoputignano">
-    <![Guido Putignano](https://github.com/guidoputignano/guidoputignano/blob/main/Untitled%20design%20(1).png)
- /></a>
+    <img alt="Guido Putignano" src="https://github.com/guidoputignano/guidoputignano/raw/main/Untitled%20design%20(1).png" width="300" />
+  </a>
 </p>
 
-![Guido Putignano](https://github.com/guidoputignano/guidoputignano/blob/main/Untitled%20design%20(1).png)
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Guido+Putignano:;Bioengineer,+Researcher,+Entrepreneur)](https://git.io/typing-svg)
 

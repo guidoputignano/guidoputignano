@@ -1,4 +1,9 @@
-### Hi there! 👋
+<p align="center">
+  <a href="https://github.com/guidoputignano">
+    <img src="https://drive.google.com/file/d/1yRyMvQkxIC2NHc2XabEMQ4x-J4-j0nve/view?usp=sharing" alt="Guido Putignano" /></a>
+</p>
+
+![Guido Putignano](https://drive.google.com/file/d/1zpTVwxtEHIk-M5ViCp3KiMxSKF5j0Wvn/view?usp=sharing)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Guido+Putignano:;Bioengineer,+Researcher,+Entrepreneur)](https://git.io/typing-svg)
 

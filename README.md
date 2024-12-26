@@ -1,74 +1,69 @@
+<h1 align="center">Hello! I'm Guido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guido-putignano" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/guidoputignano">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
 <p align="center">
   <a href="https://github.com/guidoputignano">
     <img alt="Guido Putignano" src="https://github.com/guidoputignano/guidoputignano/raw/main/Untitled%20design%20(1).png" width="300" />
   </a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computational+Biology+Researcher;AI+%2B+Cell+Engineering+Enthusiast;ETH+Zürich+Graduate+Student)](https://git.io/typing-svg)
 
+<hr/>
 
+🔭 Currently pursuing MSc in Computational Biology at ETH Zürich
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Guido+Putignano:;Bioengineer,+Researcher,+Entrepreneur)](https://git.io/typing-svg)
+🧬 Researching at the intersection of:
+- Cell Therapy & Regenerative Medicine
+- Mechanotransduction & Control Theory
+- AI for Biological Systems
+- Single-Cell Analysis
+- Bioimage Informatics
 
+🚀 Building next-generation tools for:
+- Stem Cell Engineering
+- Organoid Development
+- Gene Regulatory Networks
+- Predictive Biological Modeling
 
-I am a student of Computational Biology at ETH Zurich. I earned my bachelor's degree at Polimi in Biomedical Engineering. I am excited about Synthetic Biology and how Artificial Intelligence can be used to study, predict, and engineer living organisms.
+<hr/>
 
+<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,r,cpp,matlab,pytorch,tensorflow,docker,git,vscode,latex" />
+</div>
 
-#### What I love doing:
-- 🧬 Gene Regulatory Network
-- ⚗️ Single-Cell Analysis
-- 📸 Bioimage Analysis
+<div align="center">
+<h3>Languages</h3>
+<img src="https://img.shields.io/badge/English-C2-f39f37?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Italian-Native-2a9d8f?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/French-B2-8338ec?style=flat-square&logoColor=white"/>
+</div>
 
+<hr/>
 
-#### My favourite living organisms
-- 👶 Stem cells
-- 🧠 Organoids
-- 👪 Humans
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=guidoputignano&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=guidoputignano&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidoputignano&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-#### What language do I speak:
-![English](https://img.shields.io/badge/English-f39f37) ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
+<hr/>
 
-![Italian](https://img.shields.io/badge/Italian-2a9d8f) ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
-
-![French](https://img.shields.io/badge/French-8338ec) ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-
-![Python](https://img.shields.io/badge/Python-3a86ff) ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-
-![C](https://img.shields.io/badge/C-8338ec) ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-
-![R](https://img.shields.io/badge/R-ff006e) ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-
-![Cython](https://img.shields.io/badge/Cython-ff595e) ![rating](https://img.shields.io/badge/rating-★☆☆☆☆-brightgreen)
-
-
-#### Hobbies:
-- 🏋️ Gym
-- 🏃 Running
-- 🏊 Swimming
-- 🚴 Cycling (WIP)
-
-
-Feel free to contact me if you think I can be helpful for anything in your mind
-
-
-<img src="https://img.shields.io/twitter/follow/guidoputignano?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
-
-[![Hits](https://hits.sh/www.linkedin.com/in/guido-putignano.svg?label=Linkedin&color=007ec6&logo=Linkedin)](https://hits.sh/www.linkedin.com/in/guido-putignano/)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=guidoputignano&theme=dark&hide_border=true&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
-
-
-<!--
-**guidoputignano/guidoputignano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i>"The best way to predict the future is to engineer it."</i>
+</div>

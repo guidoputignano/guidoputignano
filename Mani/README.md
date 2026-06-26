@@ -33,8 +33,8 @@ single self-contained `index.html`.
 Open `index.html` and look for these spots near the bottom of the `<script>`:
 
 - `RIGGED` — the predetermined outcome of each spin (the wheel *looks* random but
-  is choreographed): currently `Kiss → Kiss → Special, with ?`.
-- `RESULTS` — the message shown for each outcome. Edit the **"Special, with ?"**
+  is choreographed): currently `Kiss → Kiss → A surprise`.
+- `RESULTS` — the message shown for each outcome. Edit the **"A surprise"**
   text to say whatever you'd like it to reveal. 💝
 - `MAP` — the level layout (`M`onster, `S`lider, `B`eetroot, `D`ish, hearts `1 2 3`,
   start `@`).
